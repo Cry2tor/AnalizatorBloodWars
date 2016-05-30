@@ -1,0 +1,72 @@
+HE£M
+
+preffixHelm={"Bojowy","Elegancki","Krwawy","Kuloodporny","Kunsztowny","Leniwy","Magnetyczny","Ozdobny","Pomocny","Rogaty","Runiczny","Rytualny","Szamañski","Szturmowy","Tygrysi","Utwardzany","Wzmocniony","Z³oœliwy","Œmiercionoœny"}
+
+rodzajHelm={"Bandana","Czapka","He³m","Kapelusz","Kask","Kominiarka","Korona","Maska","Obrêcz","Korona"}
+
+suffixHelm={"Adrenaliny","Gladiatora","Kary","Krwi","Magii","Mocy","Narkomana","Ochrony","Pasterza","Podró¿nika","Prekognicji","Przezornoœci","Skorupy ¯ó³wia","Smoczej £uski","S³oñca","Wieszcza","Wytrzyma³oœci","Zmys³ów"}
+
+Zbroja
+
+preffixZbroja={"Bojowy","Elfi","Giêtki","Krwawy","Kuloodporny","Lekki","P³yowy","Runiczny","Szamañski","Tygrysi","Wzmocniony","W³adczy","Æwiekowany","£owiecki","£uskowy","Œmiercionoœny"}
+
+rodzajZbroja={"Gorset","Kamizelka","Kolczuga","Koszulka","Kurtka","Marynarka","Peleryna","Pe³na zbroja","Smoking","Zbroja warstwowa"}
+
+suffixZbroja={"Adepta","Adrenaliny","Centuriona","Grabie¿cy","Gwardzisty","Kaliguli","Kobry","Mistrza","Narkomana","Odpornoœci","Orchidei","Siewcy Œmierci","Si³acza","Skorupy ¿ó³wia","Stra¿nika","Szermierza","Szybkoœci","Uników","Zabójcy","Z³odzieja"}
+
+Spodnie
+
+preffixSpodnie={"Aksamitny","Elfi","Giêtki","Kolczy","Kompozytowy","Krwawy","Krótki","Kuloodporny","Lekki","Pancerny","Pikowany","Runiczny","Szamañski","Tygrysi","Wzmocniony","Æwiekowany","Œmiercionoœny"}
+
+rodzajSpodnie={"Kilt","Spodnie","Spódnica","Szorty"}
+
+suffixSpodnie={"Cichych Ruchów","Handlarza Broni¹","Inków","Narkomana","Nocy","Pasterza","Przemytnika","Rzezimieszka","Si³acza","Skrytoœci","S³oñca","Tropiciela","Uników","Wê¿a","£owcy Cieni"}
+
+Pierœcieñ
+
+preffixPierscien={"Archaiczny","Czarny","Diamentowy","Dystyngowany","Elastyczny","Gwiezdny","Hipnotyczny",Jastrzêbi","Kardynalski","Miedziany","Mœciwy","Nekromancki","Niedzwiedzi","Pajêczy","Plastikowy","Platynowy","Przebieg³y","Rubinowy","Spaczony","Srebny","Szmaragdowy","S³oneczny","Tañcz¹cy","Twardy","Tytanowy","Zdradziecki","Zwierzêcy","Z³oty"}
+
+rodzajPierscien={"Bransoleta","Pierœcieñ","Sygnet"}
+
+suffixPierscien={"Celnoœci","Geniuszu","Koncentracaji","Krwi","Lewitacji","Lisa","M¹droœci","M³odoœci","Przebieg³oœci","Si³y","Szaleñca","Szczêœcia","Sztuki","Twardej Skóry","Urody","Wilko³aka","Wystêpku","W³adzy","£atwoœci"}
+
+Amulet
+
+preffixAmulet={"Archaiczny","Czarny","Diamentowy","Dystyngowany","Elastyczny","Gwiezdny","Hipnotyczny",Jastrzêbi","Kardynalski","Miedziany","Mœciwy","Nekromancki","Niedzwiedzi","Pajêczy","Plastikowy","Platynowy","Przebieg³y","Rubinowy","Spaczony","Srebny","Szmaragdowy","S³oneczny","Tañcz¹cy","Twardy","Tytanowy","Zdradziecki","Zwierzêcy","Z³oty"}
+
+rodzajAmulet={"Amulet","Apaszka","Krawat","Naszyjnik","£añuch"}
+
+suffixAmulet={"Celnoœci","Geniuszu","Koncentracaji","Krwi","Lewitacji","M¹droœci","M³odoœci","Pielgrzyma","Przebieg³oœci","Si³y","Szaleñca","Szczêœcia","Sztuki","Twardej Skóry","Urody","Wilko³aka","Wystêpku","W³adzy","Zdolnoœci","£atwoœci"}
+
+Broñ bia³a 1h
+
+preffixBiala1h={"Antyczna","Demoniczna","Jadowita","Koœciana","Kryszta³owa","K¹saj¹ca","Lekka","Mistyczna","Okrutna","Opiekuñcza","Ostra","Przeklêta","Przyjacielska","Szybka","Wzmacniaj¹ca","Zabójcza","Zatruta","Zwinna","Zêbata","Œwiec¹ca"}
+
+rodzajBiala1h={"Kama","Kastet","Miecz","Nó¿","Pa³ka","Piêœæ Niebios","Rapier","Sztylet","Topór","Wakizashi"}
+
+suffixBiala1h={"Bieg³oœci","Bólu","Dowódcy","Drakuli","Imperatora","Klanu","Kontuzji","Krwi","Mocy","Mêstwa","Odwagi","Podkowy","Precyzji","Przodków","Samobójcy","Sekty","Trafienia","W³adzy","Zarazy","Zdobywcy","Zemsty","Zwinnoœci"}
+
+Broñ Bia³a 2h
+
+preffixBiala2h={"Antyczna","Demoniczna","Jadowita","Koœciana","Kryszta³owa","K¹saj¹ca","Lekka","Mistyczna","Okrutna","Opiekuñcza","Ostra","Przeklêta","Przyjacielska","Szybka","Wzmacniaj¹ca","Zabójcza","Zatruta","Zwinna","Zêbata","Œwiec¹ca"}
+
+rodzajBiala2h={"Halabarda","Katana","Korbacz","Kosa","Maczuga","Miecz dwurêczny","Pika","Pi³a ³añcuchowa","Topór dwurêczny","³om"}
+
+suffixBiala2h={"Autokraty","Bazyliszka","Bólu","Drakuli","Hazardzisty","Inkwizytora","Krwi","Krwiopijcy","Mocy","O³owiu","Podkowy","Podstêpu","Samobójcy","W³adzy","Zarazy","Zdobywcy","Zdrady","Zemsty"}
+
+Broñ palna 1h
+
+rodzajPalna1h={"Beretta","Desert Eagle","Glock","Magnum","Mp5k","Skorpion","Uzi"}
+
+Broñ palna 2h
+
+rodzajPalna2h={"AK-47","Fn-Fal","Karabin myœliwski","Karabin snajperski","Miotacz p³omieni","Pó³automat snajperski","Strzelba"}
+
+Dystans
+
+rodzajDystans={"Ciê¿ka kusza","D³ugi ³uk","Krótki ³uk","Kusza","Nó¿ do rzucania","Oszczep","Pilum","Shuriken","Toporek do rzucania","£uk","£uk refleksyjny"}
+
+suffixDystans={"Dalekiego zasiêgu","Doskona³oœci","Driady","Precyzji","Reakcji","Szybkostrzelnoœci","Wilka","Zemsty"}
+
+
+

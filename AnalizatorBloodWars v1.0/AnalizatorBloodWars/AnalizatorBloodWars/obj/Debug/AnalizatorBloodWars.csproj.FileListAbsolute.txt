@@ -1,0 +1,9 @@
+D:\PULPIT\VI SEMESTR\Projektowanie Interfejsów\AnalizatorBloodWars\AnalizatorBloodWars\bin\Debug\AnalizatorBloodWars.exe
+D:\PULPIT\VI SEMESTR\Projektowanie Interfejsów\AnalizatorBloodWars\AnalizatorBloodWars\bin\Debug\AnalizatorBloodWars.exe.config
+D:\PULPIT\VI SEMESTR\Projektowanie Interfejsów\AnalizatorBloodWars\AnalizatorBloodWars\obj\Debug\AnalizatorBloodWars.Form1.resources
+D:\PULPIT\VI SEMESTR\Projektowanie Interfejsów\AnalizatorBloodWars\AnalizatorBloodWars\obj\Debug\AnalizatorBloodWars.Properties.Resources.resources
+D:\PULPIT\VI SEMESTR\Projektowanie Interfejsów\AnalizatorBloodWars\AnalizatorBloodWars\obj\Debug\AnalizatorBloodWars.csproj.GenerateResource.Cache
+D:\PULPIT\VI SEMESTR\Projektowanie Interfejsów\AnalizatorBloodWars\AnalizatorBloodWars\obj\Debug\AnalizatorBloodWars.exe
+D:\PULPIT\VI SEMESTR\Projektowanie Interfejsów\AnalizatorBloodWars\AnalizatorBloodWars\obj\Debug\AnalizatorBloodWars.pdb
+D:\PULPIT\VI SEMESTR\Projektowanie Interfejsów\AnalizatorBloodWars\AnalizatorBloodWars\bin\Debug\AnalizatorBloodWars.pdb
+D:\PULPIT\VI SEMESTR\Projektowanie Interfejsów\AnalizatorBloodWars\AnalizatorBloodWars\obj\Debug\AnalizatorBloodWars.csprojResolveAssemblyReference.cache
